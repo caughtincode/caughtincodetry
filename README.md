@@ -1,3 +1,3 @@
 # caughtincodetry
 # This repository is amazing.
-## College is boring.
+## College se bakar jagah koi nahi.
